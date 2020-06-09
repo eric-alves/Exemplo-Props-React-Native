@@ -1,0 +1,10 @@
+versão sem bug: "react-native": "0.62.0"
+
+Para usar o react-navigation deve se instalar:
+yarn install react-navigation
+yarn add react-native-gesture-handler@~1.6.0 react-native-reanimated@~1.7.0
+
+Set-ExecutionPolicy RemoteSigned
+
+Erro: error An unexpected error occurred: "EPERM: operation not permitted, unlink 
+solução: botão direito na pasta note-modulos e desmarcar "somente leitura"
